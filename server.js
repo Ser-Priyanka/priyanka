@@ -21,3 +21,5 @@ var server = app.listen(8086, function () {
   var port = server.address().port
   console.log("Example app listening at http://localhost:8086", host, port)
 })
+
+console.log("testing psuh");
